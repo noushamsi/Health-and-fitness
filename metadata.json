@@ -1,0 +1,7 @@
+{
+  "name": "Vertex Health & Fitness",
+  "description": "A comprehensive health and fitness tracking application for workouts, diet planning, and progress monitoring, featuring AI-powered coaching via Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
